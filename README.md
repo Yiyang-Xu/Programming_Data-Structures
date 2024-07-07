@@ -1,4 +1,4 @@
-# VE280
+# Programming & Elem. Data Structures (VE280)
 
 Please check JI Honor Code to make sure you will not violate any of those. Thanks!
 
